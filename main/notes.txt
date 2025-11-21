@@ -1,0 +1,36 @@
+- he said to look into pivot tables.
+- also make pretty plots if you want a higher grade. 
+
+- how that compares to matches where lower rank player lost
+
+a jittler plot for match duration and surface
+
+in the repo make the number of how many matches (rows)
+
+
+- 1. Player Performance & Ranking
+How does player ranking correlate with match wins?
+Do higher-ranked players win a significantly larger proportion of matches?
+
+2. Surface & Tournament Analysis
+Which surfaces (hard, clay, grass) yield the most upsets?
+Compare frequency of lower-ranked players beating higher-ranked ones by surface.
+
+3. Serve & Return Statistics
+How do serve stats (aces, double faults, 1st serve %) relate to match outcomes?
+Do winners consistently have more aces or higher first serve percentages?
+Is there a relationship between break points faced/saved and match result?
+Do players who save more break points have higher win rates?
+
+
+5. Player Style & Nationality
+Do players from certain countries (winner_ioc, loser_ioc) excel on specific surfaces?
+E.g., are Spanish players more successful on clay?
+Are specific surfaces more frequent in different countries? 
+Are there more hard surfaces in spain?\
+
+
+Would want to learn the dataset to understand the answer, how many players, what is the distribution of winners. Just really modest summaries. Few bar plots or histograms
+
+
+What to ask: How does upset probability change as the rank gap grows? Does a 20‑spot gap differ materially from 100+?
